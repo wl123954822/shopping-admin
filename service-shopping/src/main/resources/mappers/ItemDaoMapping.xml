@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.tjmj.serviceshopping.dao.ItemDao">
+
+    <select id="getAllItem"  resultType="cn.tjmj.serviceshopping.entity.Item">
+        SELECT tii.id,tii.cid,tii.itemName,tii.itemImage,tii.itemNum,tii.itemPrice,tii.createDate,tii.itemIntroduce,tii.itemIntroduceImage,
+        tc.name
+        FROM tb_item tii
+        INNER JOIN tb_item_cat tc ON tc.id=tii.cid
+        ORDER BY tii.createDate
+    </select>
+
+    <select id="getItemById" resultType="cn.tjmj.serviceshopping.entity.Item">
+        SELECT tii.id,tii.cid,tii.itemName,tii.itemImage,tii.itemNum,tii.itemPrice,tii.createDate,tii.itemIntroduce,tii.itemIntroduceImage,
+        tc.name
+        FROM tb_item tii
+        INNER JOIN tb_item_cat tc ON tc.id=tii.cid
+        WHERE tii.id =#{id}
+    </select>
+
+
+    <insert id="addItem" parameterType="cn.tjmj.serviceshopping.entity.Item">
+        INSERT INTO tb_item(cid,itemName,itemImage,itemNum,itemPrice,itemIntroduce,itemIntroduceImage)VALUES (
+        #{cid},#{itemName}, #{itemImage},#{itemNum}, #{itemPrice},#{itemIntroduce}, #{itemIntroduceImage}
+        )
+    </insert>
+</mapper>

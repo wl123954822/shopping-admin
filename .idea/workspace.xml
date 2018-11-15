@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fef1f0d2-1d41-4ea4-bf21-6a66c0aa7a5c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/common-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/common-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/common-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/service-admin/target/" />
+    <ignored path="$PROJECT_DIR$/common-eureka-feign/target/" />
+    <ignored path="$PROJECT_DIR$/common-eureka-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/service-shopping/target/" />
+    <ignored path="$PROJECT_DIR$/common-eureka-admin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="wxshopping@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="wxshopping@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="wxshopping@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="wxshopping: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-750020843">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="gitattributes" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="24" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="175" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="111" />
+          <entry key="XML" value="45" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="java" value="175" />
+          <entry key="properties" value="111" />
+          <entry key="xml" value="45" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common-eureka-server/src/main/java/cn/tjmj/commoneurekaserver/CommonEurekaServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common-eureka-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="31" column="19" selection-start-line="30" selection-start-column="5" selection-end-line="34" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common-eureka-client/src/main/java/cn/tjmj/commoneurekaclient/CommonEurekaClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-context/1.1.8.RELEASE/spring-cloud-context-1.1.8.RELEASE.jar!/org/springframework/cloud/bootstrap/encrypt/EncryptionBootstrapConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shopping-admin" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/workspace/intellij/cloud-shop" value="28279980361127" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common-eureka-zuul/src/main/java/cn/tjmj/commoneurekazuul/config/Myfilter.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/entity/Item.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/ItemTjPic.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemTjPic.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/ItemTjPicService.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemTjPicServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/mappers/ItemTjPicDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/ItemCatDto.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/util/RegExpUtil.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemCatDao.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/mappers/ItemCatDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemCatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/ServiceShoppingApplication.java" />
+        <option value="$PROJECT_DIR$/common-config-server/src/main/resources/cloud-config-repo/cloud-config-test.properties" />
+        <option value="$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/feignInterface/Schedual.java" />
+        <option value="$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/controller/ServiceAdminController.java" />
+        <option value="$PROJECT_DIR$/common-eureka-zuul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/OrderAlDto.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/OrderDetilDto.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/ItemDto.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/Dto/OrderTj.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/mappers/OrderDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/OrderAlService.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/OrderAlServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/WxUserDao.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/mappers/WxUserDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/WxUserService.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/WxUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/controller/WxUserController.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/entity/Address.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/test/java/cn/tjmj/serviceshopping/tes/Tes.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/util/uploadFile.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemDao.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/resources/mappers/ItemDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-shopping/target/classes/mappers/ItemCatDaoMapping.xml" />
+        <option value="$PROJECT_DIR$/service-admin/src/main/java/cn/tjmj/serviceadmin/service/serviceImpl/AdminLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-admin/src/main/java/cn/tjmj/serviceadmin/controller/AdminLoginController.java" />
+        <option value="$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/common-config-server/src/main/resources/cloud-config-repo/cloud-config-dev.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/common-eureka-admin/src/main/java/cn/tjmj/commonadmin/CommonAdminApplication.java" />
+        <option value="$PROJECT_DIR$/common-eureka-admin/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/common-eureka-admin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/common-eureka-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/common-eureka-admin/src/main/java/cn/tjmj/commonadmin/CommonEurekaAdminApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven-3.3.9\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-eureka-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common-eureka-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="1" />
+    <option name="width" value="1931" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shopping-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common-eureka-admin/pom.xml" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tjmj.serviceshopping.util" />
+      <recent name="cn.tjmj.serviceshopping.entity" />
+      <recent name="cn.tjmj.serviceadmin.util" />
+      <recent name="cn.tjmj.shoppingadmin.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java工程\java workspace\shopping-admin\service-shopping\src\main\resources" />
+      <recent name="F:\java工程\java workspace\shopping-admin\service-shopping\src\main\java\cn\tjmj\serviceshopping\entity" />
+      <recent name="F:\java工程\java workspace\shopping-admin\service-admin\src\main\resources" />
+      <recent name="F:\java工程\java workspace\shopping-admin\common-eureka-zuul\src\main\resources" />
+      <recent name="F:\java工程\java workspace\shopping-admin\common-config-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.24699454" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommonAdminApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingAdminApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tjmj.shoppingadmin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tjmj.shoppingadmin" />
+      <option name="MAIN_CLASS_NAME" value="cn.tjmj.shoppingadmin.ShoppingAdminApplicationTests" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tes.tse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-shopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tjmj.serviceshopping.tes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tjmj.serviceshopping.tes" />
+      <option name="MAIN_CLASS_NAME" value="cn.tjmj.serviceshopping.tes.Tes" />
+      <option name="METHOD_NAME" value="tse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-eureka-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commonadmin.CommonEurekaAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commonconfigserver.CommonConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonEurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commoneurekaclient.CommonEurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonEurekaFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-eureka-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commoneurekafeign.CommonEurekaFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commoneurekaserver.CommonEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonEurekaZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common-eureka-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.commoneurekazuul.CommonEurekaZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.serviceadmin.ServiceAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceShoppingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-shopping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.serviceshopping.ServiceShoppingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shopping-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tjmj.shoppingadmin.ShoppingAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ShoppingAdminApplication" />
+      <item itemvalue="Spring Boot.CommonEurekaServerApplication" />
+      <item itemvalue="Spring Boot.CommonEurekaClientApplication" />
+      <item itemvalue="Spring Boot.CommonConfigServerApplication" />
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      <item itemvalue="Spring Boot.CommonEurekaZuulApplication" />
+      <item itemvalue="Spring Boot.ServiceShoppingApplication" />
+      <item itemvalue="Spring Boot.CommonEurekaFeignApplication" />
+      <item itemvalue="JUnit.ShoppingAdminApplicationTests" />
+      <item itemvalue="JUnit.Tes.tse" />
+      <item itemvalue="Spring Boot.CommonAdminApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tes.tse" />
+        <item itemvalue="JUnit.ShoppingAdminApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fef1f0d2-1d41-4ea4-bf21-6a66c0aa7a5c" name="Default" comment="" />
+      <created>1513577094220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513577094220</updated>
+      <workItem from="1513577098906" duration="643000" />
+      <workItem from="1513578578553" duration="3343000" />
+      <workItem from="1513582688840" duration="7157000" />
+      <workItem from="1513645477162" duration="19442000" />
+      <workItem from="1513731721124" duration="4839000" />
+      <workItem from="1513736884919" duration="17098000" />
+      <workItem from="1513819084726" duration="15908000" />
+      <workItem from="1513904740484" duration="7278000" />
+      <workItem from="1513925812218" duration="9971000" />
+      <workItem from="1513999723865" duration="10586000" />
+      <workItem from="1514165752551" duration="5166000" />
+      <workItem from="1514250889345" duration="14539000" />
+      <workItem from="1514337071891" duration="8119000" />
+      <workItem from="1514358167347" duration="3153000" />
+      <workItem from="1514422802434" duration="9585000" />
+      <workItem from="1514509970710" duration="9428000" />
+      <workItem from="1514854769353" duration="381000" />
+      <workItem from="1514855648486" duration="3236000" />
+      <workItem from="1514864160051" duration="12476000" />
+      <workItem from="1514941147005" duration="8551000" />
+      <workItem from="1515027614367" duration="9106000" />
+      <workItem from="1515114240524" duration="3555000" />
+      <workItem from="1515131832620" duration="2089000" />
+      <workItem from="1515136528092" duration="214000" />
+      <workItem from="1515136839891" duration="1569000" />
+      <workItem from="1515205976288" duration="1232000" />
+      <workItem from="1515376040119" duration="4595000" />
+      <workItem from="1515547885126" duration="57000" />
+      <workItem from="1515654725052" duration="8056000" />
+      <workItem from="1515718506793" duration="11133000" />
+      <workItem from="1516333997685" duration="2396000" />
+      <workItem from="1516603243310" duration="1361000" />
+      <workItem from="1516685496815" duration="7212000" />
+      <workItem from="1516778850169" duration="1109000" />
+      <workItem from="1517456499724" duration="3353000" />
+      <workItem from="1517533652703" duration="8883000" />
+      <workItem from="1517812411257" duration="701000" />
+      <workItem from="1519833932959" duration="9000" />
+      <workItem from="1524038877506" duration="94000" />
+      <workItem from="1525348125329" duration="1134000" />
+      <workItem from="1525357274245" duration="1039000" />
+      <workItem from="1525358877194" duration="863000" />
+      <workItem from="1526993756332" duration="729000" />
+      <workItem from="1530537906833" duration="56000" />
+      <workItem from="1542118794185" duration="1739000" />
+      <workItem from="1542283664252" duration="1859000" />
+      <workItem from="1542286705915" duration="7147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShoppingAdminApplicationTests - 2017.12.18 at 14h 36m 25s.xml">
+      <configuration name="ShoppingAdminApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tes_tse - 2018.01.05 at 11h 52m 11s.xml">
+      <configuration name="Tes.tse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tes_tse - 2018.01.05 at 11h 52m 29s.xml">
+      <configuration name="Tes.tse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tes_tse - 2018.01.05 at 11h 52m 49s.xml">
+      <configuration name="Tes.tse" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="252189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25107297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49352333" weight="0.013119534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3611111" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5107296" side_tool="true" weight="0.23888889" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3288889" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.026666667" />
+      <window_info anchor="bottom" id="Run Dashboard" order="12" sideWeight="0.4892704" visible="true" weight="0.46888888" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4974093" weight="0.48333332" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32966322" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.29774678" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32966322" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/resources/mappers/ItemCatDaoMapping.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/util/RegExpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/util/uploadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java" />
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemCatDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/ItemTjPic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/b408a4c3/2e8b4b17-4c63-4313-b2a3-ad5c23db027c/wxshopping.tb_order_receive" />
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/resources/mappers/OrderDaoMapping.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemCatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/ItemTjPicServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/OrderAlServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/service/impl/WxUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1898">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-config-server/src/main/resources/cloud-config-repo/cloud-config-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-config-server/src/main/resources/cloud-config-repo/cloud-config-test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid5076.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-client/src/main/java/cn/tjmj/commoneurekaclient/controller/DcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-zuul/src/main/java/cn/tjmj/commoneurekazuul/CommonEurekaZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-shopping/src/main/java/cn/tjmj/serviceshopping/ServiceShoppingApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-admin/src/main/java/cn/tjmj/serviceadmin/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/CommonEurekaFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/feignInterface/Schedual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/feignInterface/SchedualTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/controller/ServiceAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-feign/src/main/java/cn/tjmj/commoneurekafeign/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-admin/src/main/java/cn/tjmj/serviceadmin/controller/AdminLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="45" selection-end-line="79" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-config-server/src/main/java/cn/tjmj/commonconfigserver/CommonConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-admin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-admin/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-admin/src/main/java/cn/tjmj/serviceadmin/ServiceAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="31" column="19" selection-start-line="30" selection-start-column="5" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/src/test/java/cn/tjmj/commonadmin/CommonEurekaAdminApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-server/src/main/java/cn/tjmj/commoneurekaserver/CommonEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-context/1.1.8.RELEASE/spring-cloud-context-1.1.8.RELEASE.jar!/org/springframework/cloud/bootstrap/encrypt/KeyProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/springframework/cloud/spring-cloud-context/1.1.8.RELEASE/spring-cloud-context-1.1.8.RELEASE.jar!/org/springframework/cloud/bootstrap/encrypt/EncryptionBootstrapConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/common-eureka-admin.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-admin/src/main/java/cn/tjmj/commonadmin/CommonEurekaAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-eureka-client/src/main/java/cn/tjmj/commoneurekaclient/CommonEurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shopping-admin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

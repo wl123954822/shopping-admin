@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.tjmj.serviceshopping.dao.OrderDao">
+
+    <select id="getList"  resultType="cn.tjmj.serviceshopping.Dto.OrderAlDto">
+       select toa.orderAId,toa.orderId,toa.orderNumber,toa.areaId,toa.payment,toa.content,toa.createDate,toa.status,
+        too.userId,too.postage,
+        ts.statusName
+       FROM tb_order_al toa
+       INNER JOIN tb_order too ON too.orderId=toa.orderId
+       INNER JOIN tb_status ts ON ts.statusId=toa.status
+
+    </select>
+
+    <select id="getItemList" resultType="cn.tjmj.serviceshopping.Dto.OrderDetilDto">
+        select tcc.cartId,tcc.itemId,tcc.itemName,tcc.itemPrice,tcc.quantity,
+        ti.itemImage,
+        toi.orderId
+        FROM tb_cart tcc
+        INNER JOIN tb_order_item toi ON toi.cartId = tcc.cartId
+        INNER JOIN tb_item ti ON ti.id = tcc.itemId
+        WHERE toi.orderId = #{orderId}
+    </select>
+
+    <select id="getNickName" resultType="java.lang.String" >
+        SELECT nickName FROM tb_user WHERE id=#{userId}
+    </select>
+
+    <select id="getAddress" resultType="cn.tjmj.serviceshopping.entity.Address">
+        SELECT * FROM tb_order_receive WHERE id=#{areaId}
+    </select>
+
+    <select id="getOrderNum" resultType="java.lang.Integer">
+       SELECT COUNT(*)as orderNum FROM tb_order_al WHERE status != 1 AND status != 5
+    </select>
+
+    <select id="getMonthOrNum" resultType="cn.tjmj.serviceshopping.Dto.OrderTj">
+        select
+        COUNT(*) as monthOrderNum,SUM(payment) AS allPayment
+        from
+        tb_order_al
+        where
+        DATE_SUB(CURDATE(), INTERVAL 1 MONTH)  &lt;= date(createDate) AND status != 1 AND status != 5;
+    </select>
+
+    <select id="getOldOrder" resultType="cn.tjmj.serviceshopping.Dto.OrderAlDto">
+        select toa.orderAId,toa.orderId,toa.orderNumber,toa.areaId,toa.payment,toa.content,toa.createDate,toa.status,
+        too.userId,too.postage,
+        ts.statusName
+       FROM tb_order_al toa
+       INNER JOIN tb_order too ON too.orderId=toa.orderId
+       INNER JOIN tb_status ts ON ts.statusId=toa.status
+       WHERE toa.status ='4'  or  toa.status='5'
+    </select>
+
+    <select id="getNewOrder" resultType="cn.tjmj.serviceshopping.Dto.OrderAlDto">
+         select toa.orderAId,toa.orderId,toa.orderNumber,toa.areaId,toa.payment,toa.content,toa.createDate,toa.status,
+        too.userId,too.postage,
+        ts.statusName
+       FROM tb_order_al toa
+       INNER JOIN tb_order too ON too.orderId=toa.orderId
+       INNER JOIN tb_status ts ON ts.statusId=toa.status
+       WHERE toa.status ='2'  or  toa.status='3'
+    </select>
+
+    <update id="deLiver">
+        UPDATE tb_order_al
+        <set>
+            status='3'
+        </set>
+        WHERE orderAId=#{orderAId}
+    </update>
+
+    <select id="getOrderANum" resultType="java.lang.Integer">
+        select COUNT(*) FROM tb_order_al WHERE status='2' or status='3'
+    </select>
+</mapper>

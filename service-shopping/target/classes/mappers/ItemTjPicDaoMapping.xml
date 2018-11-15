@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.tjmj.serviceshopping.dao.ItemTjPic">
+
+    <select id="getTjByItemId"  resultType="cn.tjmj.serviceshopping.Dto.ItemTjPicDto">
+       SELECT tc.cartId,tc.itemId,tc.quantity,
+        toa.orderId,toa.createDate
+       FROM tb_cart tc
+       INNER JOIN tb_order_item toi ON toi.cartId = tc.cartId
+       INNER JOIN tb_order_al toa ON toa.orderId = toi.orderId
+       WHERE tc.itemId=#{itemId}
+        ORDER BY toa.createDate DESC
+    </select>
+
+
+</mapper>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-config-server/common-config-server.iml" filepath="$PROJECT_DIR$/common-config-server/common-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-eureka-client/common-eureka-client.iml" filepath="$PROJECT_DIR$/common-eureka-client/common-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-eureka-feign/common-eureka-feign.iml" filepath="$PROJECT_DIR$/common-eureka-feign/common-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-eureka-server/common-eureka-server.iml" filepath="$PROJECT_DIR$/common-eureka-server/common-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-eureka-zuul/common-eureka-zuul.iml" filepath="$PROJECT_DIR$/common-eureka-zuul/common-eureka-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-admin/service-admin.iml" filepath="$PROJECT_DIR$/service-admin/service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-shopping/service-shopping.iml" filepath="$PROJECT_DIR$/service-shopping/service-shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-admin.iml" filepath="$PROJECT_DIR$/shopping-admin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="cn.tjmj.serviceshopping.dao.ItemCatDao">
+
+    <select id="getItemCat"  resultType="cn.tjmj.serviceshopping.Dto.ItemCatDto">
+        SELECT * FROM tb_item_cat
+    </select>
+
+    <select id="getSum" resultType="java.lang.Integer">
+        SELECT COUNT(1) as sum FROM tb_item WHERE cid=#{cid}
+    </select>
+
+    <delete id="delete" parameterType="java.lang.Integer">
+        DELETE FROM tb_item_cat WHERE id=#{id}
+    </delete>
+
+    <update id="update">
+        UPDATE tb_item_cat
+        <set>
+            status=#{status}
+        </set>
+        WHERE id=#{id}
+    </update>
+
+    <insert id="add" parameterType="cn.tjmj.serviceshopping.entity.ItemCat">
+        <selectKey resultType="java.lang.Integer" order="AFTER"
+                   keyProperty="id">
+            SELECT LAST_INSERT_ID() as id
+        </selectKey>
+        INSERT into tb_item_cat(childId,name,status) VALUES (
+        #{childId},#{name},#{status}
+        )
+    </insert>
+
+    <select id="getItemCatByName" resultType="cn.tjmj.serviceshopping.entity.ItemCat">
+        SELECT * FROM tb_item_cat WHERE name=#{name}
+    </select>
+</mapper>
